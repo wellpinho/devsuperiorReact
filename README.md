@@ -1,2 +1,2 @@
 # devsuperiorReact
-Projeto para buscar pessoas no github por meio da api di git
+Projeto para buscar pessoas no github por meio da api do git
